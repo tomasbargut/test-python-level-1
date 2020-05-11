@@ -16,6 +16,11 @@ pip install django
 pip install djangorestframework
 ~~~~
 
+####Instalando paquetes requeridos desde archivo con listado
+~~~~
+pip install -r requirements.txt
+~~~~
+
 ####Creando un nuevo proyecto con una aplicación
 ~~~~
 django-admin startproject technical .
