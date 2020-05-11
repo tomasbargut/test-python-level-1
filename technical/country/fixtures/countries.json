@@ -1,0 +1,83 @@
+[
+  {
+    "model": "country.country",
+    "pk": 1,
+    "fields": {
+      "iso_alpha_code": "AR",
+      "iso_numeric_code": "032",
+      "name": "Argentina"
+    }
+  },
+  {
+    "model": "country.country",
+    "pk": 2,
+    "fields": {
+      "iso_alpha_code": "BR",
+      "iso_numeric_code": "076",
+      "name": "Brazil"
+    }
+  },
+  {
+    "model": "country.country",
+    "pk": 3,
+    "fields": {
+      "iso_alpha_code": "CL",
+      "iso_numeric_code": "152",
+      "name": "Chile"
+    }
+  },
+  {
+    "model": "country.country",
+    "pk": 4,
+    "fields": {
+      "iso_alpha_code": "CO",
+      "iso_numeric_code": "170",
+      "name": "Colombia"
+    }
+  },
+  {
+    "model": "country.country",
+    "pk": 5,
+    "fields": {
+      "iso_alpha_code": "MX",
+      "iso_numeric_code": "484",
+      "name": "Mexico"
+    }
+  },
+  {
+    "model": "country.country",
+    "pk": 6,
+    "fields": {
+      "iso_alpha_code": "PY",
+      "iso_numeric_code": "600",
+      "name": "Paraguay"
+    }
+  },
+  {
+    "model": "country.country",
+    "pk": 7,
+    "fields": {
+      "iso_alpha_code": "PE",
+      "iso_numeric_code": "604",
+      "name": "Peru"
+    }
+  },
+  {
+    "model": "country.country",
+    "pk": 8,
+    "fields": {
+      "iso_alpha_code": "BO",
+      "iso_numeric_code": "068",
+      "name": "Bolivia"
+    }
+  },
+  {
+    "model": "country.country",
+    "pk": 9,
+    "fields": {
+      "iso_alpha_code": "UY",
+      "iso_numeric_code": "858",
+      "name": "Uruguay"
+    }
+  }
+]
