@@ -19,7 +19,7 @@ Ademas de la implementación, se requieren tambien las request que permitan prob
 
 ###Bonus
 
-Para mejorar la evaluación realizar las siguientes actividaes
+Para mejorar la evaluación realizar las siguientes actividades
 - Api para obtener listado de personas según el tipo.
 - Implementar pruebas de unidad con pyTest.
 - Configurar un sistema de logs en archivos con rotacion por dia. Loguear como mínimo request y responses.
