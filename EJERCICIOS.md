@@ -16,3 +16,10 @@ implementar un CRUD + listado de **titulares de cuentas corrientes** según las 
 
 Las funcionalidades requeridas (creacion, lectura, modificacion, borrado y listado) deberán exponerse en la API Rest.
 Ademas de la implementación, se requieren tambien las request que permitan probar los endpoints utilizando la herramienta curl
+
+###Bonus
+
+Para mejorar la evaluación realizar las siguientes actividaes
+- Api para obtener listado de personas según el tipo.
+- Implementar pruebas de unidad con pyTest.
+- Configurar un sistema de logs en archivos con rotacion por dia. Loguear como mínimo request y responses.
