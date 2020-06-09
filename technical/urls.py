@@ -17,9 +17,11 @@ from django.contrib import admin
 from django.urls import include, path
 from rest_framework import routers
 from technical.country import views
+from technical.lab import views as lab_views
 
 router = routers.DefaultRouter()
 router.register(r'countries', views.CountryViewSet)
+router.register(r'titulares', lab_views.TitularViewSet)
 
 urlpatterns = [
     path('admin/', admin.site.urls),
